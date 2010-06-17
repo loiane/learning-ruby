@@ -2,6 +2,7 @@
 # Loiane Groner
 # http://loianegroner.com (English)
 # http://loiane.com (Portuguese)
+
 =begin
   Ruby is an interpreted language
   Source file has .rb extension
